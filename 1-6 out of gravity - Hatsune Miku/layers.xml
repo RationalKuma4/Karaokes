@@ -1,0 +1,18 @@
+<layer name="prueba">
+	<l name="Default"/>
+	<a name="lineain"/>
+	<a name="opasiloff" syl="yes"/>
+</layer>
+
+<layer name="prueba">
+	<l name="Default"/>
+	<a name="lineain"/>
+	<a name="opasilon" syl="yes"/>
+	<a name="rotacion" syl="yes"/>
+	<a name="escala" syl="yes"/>
+	<p name="effect.StarglowSil" syl="yes" />
+</layer>
+
+<layer name="traduccion">
+	<l name="Default"/>
+</layer>
